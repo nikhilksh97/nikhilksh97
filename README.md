@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nikhilksh97
-- 👀 I’m interested DataScience
+- 👀 I’m interested in DataScience
 - 🌱 I’m currently learning BigData Tools and Technologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me at nikhilksh97@gmail.com
